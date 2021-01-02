@@ -1,0 +1,6 @@
+# winedocker{
+    "name": "wine",
+    "description": "Heroku wine.",
+    "repository": "https://github.com/mclk623/winedocker/",
+    "stack": "container"
+}
